@@ -40,6 +40,7 @@ input{
     border-radius: .25rem;
       border: 2px solid  #0065a3;
       color: #0065a3;
+      padding:4px;
 }
 input::placeholder{
      color: #0065a3;
